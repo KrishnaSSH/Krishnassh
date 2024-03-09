@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [My memes generator](https://github.com/Krishna-G-OP/Meme-Shuffle)
 
-- 👨‍💻 All of my projects are available at [My Github](https://github.com/Krishna-G-OP)
+- 👨‍💻 Some of my projects are available at [My Github](https://github.com/Krishna-G-OP)
 
 - 💬 Ask me about **Web development**
 
