@@ -3,27 +3,27 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna-g-op&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-g-op" /> </p>
 
-- 🔭 I’m currently working on [My Portfolio](https://github.com/Krishna-G-OP/Personal-Website)
+# 💫 About Me:
+🔭 I’m currently working on My Portfolio<br><br>🌱 I’m currently learning React<br><br>👯 I’m looking to collaborate on Some Web based projects<br><br>🤝 I’m looking for help with My memes generator<br><br>👨‍💻 Some of my projects are available at My Github<br><br>💬 Ask me about Web development<br><br>📫 How to reach me thunderarch@duck.com<br><br>⚡ Fun fact 2+2=4<br>
 
-- 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **Some Web based projects**
+# 💻 Tech that I use:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Krishna-G-OP&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Krishna-G-OP&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-G-OP&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 🤝 I’m looking for help with [My memes generator](https://github.com/Krishna-G-OP/Meme-Shuffle)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 👨‍💻 Some of my projects are available at [My Github](https://github.com/Krishna-G-OP)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Krishna-G-OP&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
-- 💬 Ask me about **Web development**
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-- 📫 How to reach me **thunderarch@duck.com**
+---
+[![](https://visitcount.itsvg.in/api?id=Krishna-G-OP&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- ⚡ Fun fact **2+2=4**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishna-g-op&show_icons=true&locale=en&layout=compact" alt="krishna-g-op" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
