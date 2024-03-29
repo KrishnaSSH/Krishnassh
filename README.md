@@ -4,7 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna-g-op&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-g-op" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on My Portfolio<br><br>🌱 I’m currently learning React<br><br>👯 I’m looking to collaborate on Some Web based projects<br><br>🤝 I’m looking for help with My memes generator<br><br>👨‍💻 Some of my projects are available at My Github<br><br>💬 Ask me about Web development<br><br>📫 How to reach me thunderarch@duck.com<br><br>⚡ Fun fact 2+2=4<br>
+🔭 I’m currently working on My Portfolio<br><br>🌱 I’m currently learning React<br><br>👯 I’m looking to collaborate on Some Web based projects<br><br>🤝 I’m looking for help with My memes generator<br><br>👨‍💻 Some of my projects are available at My Github<br><br>💬 Ask me about Web development<br><br>📫 How to reach me thunderarch@duck.com<br><br>⚡ Fun fact 
+"You have 5 minutes to live, but each breath restarts the timer."<br>
 
 
 # 💻 Tech that I use:
