@@ -74,7 +74,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on My Portfolio<br><br>🌱 I’m currently learning React<br><br>👯 I’m looking to collaborate on Some Web based projects<br><br>🤝 I’m looking for help with My memes generator<br><br>👨‍💻 Some of my projects are available at My Github<br><br>💬 Ask me about Web development<br><br>📫 How to reach me krishnasys@proton.me<br><br>⚡ Fun fact 
+🔭 I’m currently working on My Portfolio<br><br>🌱 I’m currently learning React<br><br>👯 I’m looking to collaborate on Some Web based projects<br><br>🤝 I’m looking for help with My memes generator<br><br>👨‍💻 Some of my projects are available at My Github<br> <br>📫 How to reach me krishnasys@proton.me<br><br>⚡ Fun fact 
 "You have 5 minutes to live, but each breath restarts the timer."<br>
 
 </br>
