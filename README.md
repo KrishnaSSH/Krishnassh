@@ -1,3 +1,15 @@
+
+ ```
+  _  __     _     _                 
+ | |/ /_ __(_)___| |__  _ __   __ _ 
+ | ' /| '__| / __| '_ \| '_ \ / _` |
+ | . \| |  | \__ \ | | | | | | (_| |
+ |_|\_\_|  |_|___/_| |_|_| |_|\__,_|
+ 
+ ```
+
+
+
 <h1 align="center">Hi 👋, I'm Krishna</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
