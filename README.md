@@ -1,4 +1,4 @@
-🔴🟢🟡    
+🔴🟢🟡 
  ```
 
 
@@ -47,7 +47,7 @@
 
 
 
-  ._________________.
+   ._________________.
    |.---------------.|
    ||               ||
    ||               ||
@@ -70,10 +70,8 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Krishna</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna-g-op&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-g-op" /> </p>
+
 
 # 💫 About Me:
 🔭 I’m currently working on My Portfolio<br><br>🌱 I’m currently learning React<br><br>👯 I’m looking to collaborate on Some Web based projects<br><br>🤝 I’m looking for help with My memes generator<br><br>👨‍💻 Some of my projects are available at My Github<br><br>💬 Ask me about Web development<br><br>📫 How to reach me krishnasys@proton.me<br><br>⚡ Fun fact 
