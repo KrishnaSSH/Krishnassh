@@ -69,7 +69,7 @@
 
 
 
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/877351272251023440)](https://discord.com/users/877351272251023440)
 
 
 
