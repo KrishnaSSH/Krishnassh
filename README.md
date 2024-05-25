@@ -67,8 +67,6 @@
  ```
 
 
-
-
 [![Discord Presence](https://lanyard.cnrad.dev/api/877351272251023440)](https://discord.com/users/877351272251023440)
 
 
@@ -83,7 +81,6 @@
 # 💻 Tech that I use:
 [![Favourite Tech](https://skillicons.dev/icons?i=js,ts,python,react,bootstrap,tailwind,nodejs,docker,mongodb)](https://skillicons.dev)
 
-</br>
 </br>
 
 # 📊 GitHub Streak:
