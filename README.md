@@ -69,9 +69,7 @@
 
 
 
-# 💫 About Me:
-🔭 I’m currently working on My Portfolio<br><br>🌱 I’m currently learning React<br><br>👨‍💻 My projects are available at My Github<br> <br>📫 How to reach me krishnassh@proton.me<br><br>⚡ Fun fact 
-"You have 5 minutes to live, but each breath restarts the timer."<br>
+
 
 </br>
 </br>
