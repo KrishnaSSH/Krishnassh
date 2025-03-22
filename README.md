@@ -93,6 +93,6 @@
 </br>
 
 # 💻 Tech that I use:
-[![Favourite Tech](https://skillicons.dev/icons?i=js,ts,python,react,bootstrap,tailwind,nodejs,docker,mongodb)](https://skillicons.dev)
+[![Tech](https://skillicons.dev/icons?i=kubernetes,docker,go,ts,js,nodejs,nextjs,py,mongodb,)](https://skillicons.dev)
 
 </br>
