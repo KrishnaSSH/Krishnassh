@@ -2,7 +2,7 @@
 
 **Backend Engineer | Cloud Native | Open Source Contributor**
 
-[![Email](https://img.shields.io/badge/Email-Contact-ff5555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishna.pytech@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-ff5555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kwynx@tuta.io)
 [![Discord](https://img.shields.io/badge/Discord-wireguard.-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1272036139024384092)
 [![GitHub](https://img.shields.io/badge/GitHub-KrishnaSSH-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KrishnaSSH)
 
