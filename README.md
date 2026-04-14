@@ -20,6 +20,6 @@ Go · TypeScript · Node.js · Python · Kubernetes · Docker · MongoDB
 ## Links
 
 - Site: https://root0.xyz/
-- Email: kwynx@tuta.io
+- Email: kwynx@tuta.io, krishna.pytech@gmail.com
 - Discord: https://discord.com/users/1272036139024384092/
 - GitHub: https://github.com/KrishnaSSH
